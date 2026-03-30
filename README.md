@@ -16,6 +16,8 @@ Technical Details
 Author
 JB Eksteen
 
+Youtube Video LINK: https://youtube.com/shorts/IiSffDiu02M
+
 
 MainActivity.kt
 package com.example.cora_explora_30
